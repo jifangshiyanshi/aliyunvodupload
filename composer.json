@@ -2,6 +2,7 @@
     "name": "jifangshiyanshi/aliyunvodupload",
     "description": "aliyun vod upload",
     "type": "libarry",
+    "license": "MIT",
     "authors": [
         {
             "name": "yangjifang",
